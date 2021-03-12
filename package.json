@@ -1,0 +1,19 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "workout tracker input workout routine to keep track of exercise  day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralph626/Fitness-Tracker.git"
+  },
+  "author": "Rafael Orozco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralph626/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/ralph626/Fitness-Tracker#readme"
+}
