@@ -14,9 +14,10 @@ app.use(express.urlencoded({ extended: false })); // necessary for form data.
 
 app.use(express.static("public")); // all publicly available files
 
-const PORT = process.env.port || 4000; // default port is 4000 unless otherwise set in env.
+const PORT = process.env.PORT || 4000; // default port is 4000 unless otherwise set in env.
 app.get("/ralph", async (req, res) => {
   //some async process like db call.then()
+  res.send("GOTTA CATCH EM ALL!");
 });
 
 app.get("/exercise", (req, res) => {
