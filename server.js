@@ -11,7 +11,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
 });
 app.use(express.json());
 app.use(express.urlencoded({ extended: false })); // necessary for form data.
-
+//comment
 app.use(express.static("public")); // all publicly available files
 
 const PORT = process.env.PORT || 4000; // default port is 4000 unless otherwise set in env.
