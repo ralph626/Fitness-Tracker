@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
-//date, time, how long, description
+//day, exercises in object and kinds of input it receives
 const workoutSchema = new Schema({
   day: { type: Date, default: Date.now() },
   exercises: [
