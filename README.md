@@ -18,9 +18,9 @@ The fitness tracker is a great way to view your workout productivity's progress 
 
 ### Initial Configuration
 
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
-
+npm install in the root directory
+npm start
+Start MongoDB if locally running
 ## Developing
 
 Here's a brief intro about what a developer must do in order to start developing
