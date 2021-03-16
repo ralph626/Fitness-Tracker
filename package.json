@@ -10,7 +10,7 @@
     "seed": "node seeders/seed.js",
     "heroku-postbuild": "npm run seed"
   },
-  "author": "",
+  "author": "Rafael Orozco",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
