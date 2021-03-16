@@ -8,7 +8,8 @@ A workout tracker. Using Mongo database with Mongoose schema and handle routes w
 
 <!-- insert a png of working app -->
 
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project](https://github.com/ralph626/Fitness-Tracker/blob/main/images/fitness%20tracker%20logo.PNG)
+
 
 # Tech Blog
 
