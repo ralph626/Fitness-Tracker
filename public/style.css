@@ -23,8 +23,9 @@ nav {
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
+  display: flex;
+  justify-content: space-between;
 }
-
 
 a,
 a:hover,
@@ -34,7 +35,7 @@ a:visited {
   color: inherit;
 }
 
-nav a:hover{
+nav a:hover {
   opacity: 0.7;
 }
 
@@ -139,8 +140,7 @@ form::after {
 }
 
 .exercise .ui.card {
-  width: 400px;
-  max-width: 600px;
+  width: 370px;
 }
 
 .exercise .buttons {

@@ -1,26 +1,21 @@
-
-
-
 # Fitness-Tracker
+
 A workout tracker. Using Mongo database with Mongoose schema and handle routes with express
 
-
-![Logo of the project](https://github.com/ralph626/Fitness-Tracker/blob/main/images/fitness%20tracker%20logo.PNG)
-
+![Logo of the project](going to add a updated pic)
 
 # Tech Blog
 
-The fitness tracker is a great way to view your workout productivity's progress using the application. The user can input workout routines, and the app will keep track of the progress throughout each input. It displays the progress through graphs and charts to easily access workouts. Using the app consistently, the user can keep track of their workout progress and workout regiment.  
+The fitness tracker is a great way to view your workout productivity's progress using the application. The user can input workout routines, and the app will keep track of the progress throughout each input. It displays the progress through graphs and charts to easily access workouts. Using the app consistently, the user can keep track of their workout progress and workout regiment.
 
 ## Installing
-
-
 
 ### Initial Configuration
 
 npm install in the root directory
 npm start
 Start MongoDB if locally running
+
 ## Developing
 
 Here's a brief intro about what a developer must do in order to start developing
@@ -59,12 +54,11 @@ What's all the bells and whistles this project can perform?
 - saves workout routine
 - view the dashboard to see the progress in a graph
 
-
-
 ## Contributing
 
 "If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome."
+
 ## Links
 
 - Project homepage: https://boiling-caverns-89675.herokuapp.com/?id=604fc75050c09a001562300f
@@ -72,7 +66,6 @@ branch. Pull requests are warmly welcome."
   - In case of sensitive bugs like security vulnerabilities, please contact
     ralph.o@email.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
-
 
 ## Licensing
 
