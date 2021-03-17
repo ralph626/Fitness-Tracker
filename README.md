@@ -4,6 +4,7 @@ A workout tracker. Using Mongo database with Mongoose schema and handle routes w
 
 ![Logo of the project](https://github.com/ralph626/Fitness-Tracker/blob/main/images/homepage.PNG?raw=true)
 ![Logo of the project](https://github.com/ralph626/Fitness-Tracker/blob/main/images/workoutDashboard.PNG?raw=true)
+![Logo of the project](https://drive.google.com/file/d/1HR9ijFw8LVIuOjb8z64aFtP-fKC1obuJ/view)
 
 # Tech Blog
 
