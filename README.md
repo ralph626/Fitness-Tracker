@@ -7,7 +7,7 @@ A workout tracker. Using Mongo database with Mongoose schema and handle routes w
 
 A link to a demonstration of the app: https://drive.google.com/file/d/1HR9ijFw8LVIuOjb8z64aFtP-fKC1obuJ/view
 
-# Tech Blog
+# Fitness Tracker Description
 
 The fitness tracker is a great way to view your workout productivity's progress using the application. The user can input workout routines, and the app will keep track of the progress throughout each input. It displays the progress through graphs and charts to easily access workouts. Using the app consistently, the user can keep track of their workout progress and workout regiment.
 
